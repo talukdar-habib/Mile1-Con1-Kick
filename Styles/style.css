@@ -1,3 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#heading{
+    background-color: bisque;
+    height: 400px;
+    width: 900px;
+    margin: 40px auto;
+    padding: 100px 0;
+
+}
+
 h2{
     color: blue;
+    font-size: 40px;
+    font-style: italic;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: lighter;
+    text-decoration: overline;
+    text-align: center;
 }
+
