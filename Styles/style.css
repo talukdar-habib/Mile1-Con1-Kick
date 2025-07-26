@@ -61,5 +61,11 @@ h2{
     border-radius: 6px;
     font-size: 16px;
     font-family: "Space Grotesk", sans-serif;
+    transition: all 1s;
+    cursor: pointer;
+}
+
+.btn:hover{
+    background-color: #000000;
 }
 
